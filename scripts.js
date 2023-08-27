@@ -25,7 +25,7 @@ var magicBall = (function() {
         // Задержка перед отображением ответа
         setTimeout(function() {
             answerText.style.display = "block";
-        }, 146); // Здесь 146 - это задержка в миллисекундах
+        }, 147); // Здесь 146 - это задержка в миллисекундах
 
         ballImage.src = "img/ans.png";
     }
